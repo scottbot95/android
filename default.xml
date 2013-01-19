@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com" />
 
   <remote  name="cm"
-           fetch="git://github.com"
+           fetch="https://github.com"
            review="review.cyanogenmod.org" />
 
   
